@@ -1,0 +1,6 @@
+mathutils.c
+setup.py
+mathutils.egg-info/PKG-INFO
+mathutils.egg-info/SOURCES.txt
+mathutils.egg-info/dependency_links.txt
+mathutils.egg-info/top_level.txt
